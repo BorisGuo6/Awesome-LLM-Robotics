@@ -1,3 +1,4 @@
 ./RLBaseCode/log/
 ./PDF/
+*.pdf
 .DS_Store
