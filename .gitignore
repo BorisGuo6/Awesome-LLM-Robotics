@@ -1,4 +1,6 @@
 ./RLBaseCode/log/
 ./PDF/
+**/.git/
+**/*.tmp
 *.pdf
 .DS_Store
